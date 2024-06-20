@@ -1,0 +1,16 @@
+name: diplomado
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - numpy
+  - pandas
+  - scikit-learn
+  - seaborn
+  - matplotlib
+  - scipy
+  - jupyter
+  - notebook
+  - ipython
+  - pip
+  - gdown
