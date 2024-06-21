@@ -1,4 +1,4 @@
-# Obesity Classification Project
+# Ensemble Classification Project
 
 ## Project Description
 This project focuses on building an ensemble model using stacking, which consists of a layer of weak classifiers based on bagging, and then combined by a strong classifier. The project includes the development of a synthetic dataset, data preprocessing, model training, and evaluation using various machine learning models.
